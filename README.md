@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi !
+
+#### My stack
+
+- Rust* & Python
+- Docker & Kubernetes*
+- PostgreSQL & RabbitMQ*
+
+_* learning_
 
 <!--
 **uvekee/uvekee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
